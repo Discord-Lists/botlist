@@ -14,7 +14,7 @@ and lastly
 - Run the code! (`npm start`)
 
 <br>
-
+[https://discord.gg/dmcQjADSy](Click here to join the discord server for Setup Help!)
 # Discord Lists V6:
 
 We are glad to announce the release of V6 for Discord Lists! Make sure to read the wiki for setup instructions.
@@ -52,8 +52,8 @@ In the spirit of [free software](http://www.fsf.org/licensing/essays/free-sw.htm
  - Fix bugs and submit pull requests.
  - Write, clarify or fix documentation.
  - Refactor code.
-
-More details in [CONTRIBUTING.md](../main/CONTRIBUTING.md)
+ - Using our code.
+More Details to come.
 
 ## Core Team
 
