@@ -13,6 +13,8 @@ and lastly
 - After setting values in `sample.env` rename it to just .env
 - Run the code! (`npm start`)
 
+<br>
+
 # Discord Lists V6:
 
 We are glad to announce the release of V6 for Discord Lists! Make sure to read the wiki for setup instructions.
