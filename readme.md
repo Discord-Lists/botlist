@@ -5,6 +5,14 @@ or
 `Originaly made by Discord Lists`
 and lastly
 `Modified verison of Discord Lists`
+
+## Setup:
+**To setup follow the directions below**
+- Open up your terminal/favorite code editor and clone the repo, `git clone https://github.com/Discord-Lists/botlist` 
+- Change the values in `.sample.env`
+- After setting values in `sample.env` rename it to just .env
+- Run the code! (`npm start`)
+
 # Discord Lists V6:
 
 We are glad to announce the release of V6 for Discord Lists! Make sure to read the wiki for setup instructions.
@@ -51,6 +59,6 @@ Thanks to the following people for making Discord Lists possible 💝
 - [@Mastermind](https://github.com/memastermind) (Frontend + Backend)
 - [@CrazyBotBoy](https://github.com/pasindudushan) (Backend)
 - [@tech commander](https://github.com/tech-commander) (Discord API + Frontend)
-- [@firefish]() (Misc)
+- [@bluefish1678]() (Frontend + Misc)
 - [@Joe]() (Misc)
 - [@Koushik Puppala](https://github.com/koushikpuppala) (Misc)
