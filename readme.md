@@ -15,7 +15,7 @@ and lastly
 
 <br>
 
-[https://discord.gg/dmcQjADSy](Click here to join the discord server for Setup Help!)
+[Click here to join the discord server for Setup Help!](https://discord.gg/dmcQjADSy)
 
 # Discord Lists V6:
 
