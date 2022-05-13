@@ -1,4 +1,10 @@
-
+# Discord Lists Update:
+Discord Lists is now opensource! Enjoy. We do have a MIT licenese. We at minium require credit to our project like this:
+`Thanks to Discord Lists for the website`
+or 
+`Originaly made by Discord Lists`
+and lastly
+`Modified verison of Discord Lists`
 # Discord Lists V6:
 
 We are glad to announce the release of V6 for Discord Lists! Make sure to read the wiki for setup instructions.
